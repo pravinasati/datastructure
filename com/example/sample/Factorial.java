@@ -1,4 +1,4 @@
-package my;
+package com.example.sample;
 
 public class Factorial {
 

@@ -1,4 +1,4 @@
-package my;
+package com.example.sample;
 
 import java.util.Arrays;
 import java.util.List;
