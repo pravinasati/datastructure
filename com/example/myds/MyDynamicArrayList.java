@@ -1,4 +1,4 @@
-package my;
+package com.example.myds;
 
 public class MyDynamicArrayList<T> {
 
